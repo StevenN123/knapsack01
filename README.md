@@ -1,6 +1,6 @@
 # knapsack01
 
-A comprehensive implementation of the 0/1 Knapsack problem using dynamic programming. This classic optimization problem demonstrates optimal substructure and overlapping subproblems.
+An implementation of the 0/1 Knapsack problem using dynamic programming. This optimization problem shows optimal substructure and overlapping subproblems.
 
 ## 📋 Problem Description
 
